@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244862065242",
+    "firebase_url": "https://blocked-c5ac7.firebaseio.com",
+    "project_id": "blocked-c5ac7",
+    "storage_bucket": "blocked-c5ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873603400457:android:03d0323f8e3067238089d8",
+        "android_client_info": {
+          "package_name": "com.blocked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244862065242-fb49lpnem6qc89lrushnid3o9ddjq6fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blocked",
+            "certificate_hash": "111253954a34fa0e1e3cde5852223ff3f7dee1f9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANobbtVkaI4gqr53BryNap3EE7L7vBv4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

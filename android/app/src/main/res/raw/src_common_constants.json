@@ -1,0 +1,41 @@
+{
+  "BaseUrl": "https://hopeaccelerated-backend.herokuapp.com",
+  "AppColors": {
+    "Font": {
+      "Heading": "#010169",
+      "HeadingDescription": "#767676FF",
+      "ButtonColor": "#24806CFF",
+      "QuestionnaireLabelColor": "#2C786C"
+    },
+    "LightMode": {
+      "BackgroundColor": "#E5E5E5",
+      "SocialAuthButtonBackgroundColor": "#CCEEE1FF"
+    },
+    "SnackbarColors": {
+      "Success": "#2e7d32",
+      "Error": "#d50000",
+      "Info": "#24806CFF"
+    }
+  },
+  "AppMessages": {
+    "errorMsg": "Error occured!",
+    "successMsg": "Successfully uploaded!",
+    "noInternetMsg": "Internet connecetion required!",
+    "mandatoryFieldsMsg": "Please fill all mandatory fields",
+    "unMatchedPassword": "Password is not same"
+  },
+  "socialPlatforms": {
+    "FACEBOOK": "facebook",
+    "GOOGLE": "google"
+  },
+  "roleTypes": {
+    "CUSTOMER": "student",
+    "SELLER": "teacher"
+  },
+  "AppScreens": {
+    "BusinessInfo": "BusinessInfo",
+    "QuestionnaireStepOne": "QuestionnaireStepOne",
+    "QuestionnaireStepTwo": "QuestionnaireStepTwo",
+    "ProfileScreen": "ProfileScreen"
+  }
+}
